@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasafif&label=Profile%20views&color=0e75b6&style=flat" alt="hasafif" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasafif" alt="hasafif" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/hassana58048" target="blank"><img src="https://img.shields.io/twitter/follow/hassana58048?logo=twitter&style=for-the-badge" alt="hassana58048" /></a> </p>
 
 - 🔭 I’m currently working on **AdG6 Marketing Platform**
@@ -30,3 +32,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasafif&show_icons=true&locale=en" alt="hasafif" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasafif&" alt="hasafif" /></p>
+
+
+
+
+
+
+
