@@ -33,6 +33,40 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasafif&" alt="hasafif" /></p>
 
 
+## My Github Activity 📊
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Hasafif">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasafif&layout=compact&theme=radical" alt="Most Used Languages">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Hasafif">
+        <img src="https://github-readme-stats.vercel.app/api?username=Hasafif&show_icons=true&theme=radical" alt="Account Status">
+      </a>
+    </td>
+    <td>
+     <a href="https://github.com/Hasafif">
+       <img src="https://streak-stats.demolab.com/?user=Hasafif&theme=radical" alt="GitHub Streak">
+     </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/Hasafif">
+    <img src="https://github-profile-trophy.vercel.app/?username=Hasafif&theme=radical" alt="github_trophies" />
+  </a>
+</p>
+
+[![Ward's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hasafif&theme=github-compact)](https://github.com/Hasafif)
+<br><br>
+## Like My Projects? Support me!
+<a href="https://www.buymeacoffee.com/Hasafif"> 
+  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Hasafif" />
+</a>
 
 
 
